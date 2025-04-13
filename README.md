@@ -1,4 +1,4 @@
-# 💡 vue-dom-hints <a href="https://npm.im/vue-dom-hints"><img src="https://badgen.net/npm/v/vue-dom-hints"></a> <a href="https://npm.im/vue-dom-hints"><img src="https://badgen.net/npm/dm/vue-dom-hints"></a> <a href="https://packagephobia.now.sh/result?p=vue-dom-hints"><img src="https://packagephobia.now.sh/badge?p=vue-dom-hints"></a>
+# 💡 vue-dom-hintss <a href="https://npm.im/vue-dom-hints"><img src="https://badgen.net/npm/v/vue-dom-hints"></a> <a href="https://npm.im/vue-dom-hints"><img src="https://badgen.net/npm/dm/vue-dom-hints"></a> <a href="https://packagephobia.now.sh/result?p=vue-dom-hints"><img src="https://packagephobia.now.sh/badge?p=vue-dom-hints"></a>
 
 <p align="center">
   <img src=".github/screenshot.png" width="70%">
@@ -10,7 +10,7 @@
 </p>
 
 ## ℹ️ About
-`vue-dom-hints` is a Vue.js 2 plugin that makes it easier to inspect components using simple browser dev tools (DOM inspection & console).
+`vue-dom-hintss` is a Vue.js 2 plugin that makes it easier to inspect components using simple browser dev tools (DOM inspection & console).
 
 It adds the following to DOM elements associated with a component:
 - `__vue__` attribute containing an array of component paths/names
@@ -25,14 +25,14 @@ Finally, for devs that are comfortable with interfacing with components directly
 
 ## 🚀 Install
 ```sh
-npm i vue-dom-hints
+npm i vue-dom-hintss
 ```
 
 ## 🚦 Setup
 Install it to your Vue app as a [plugin](https://vuejs.org/v2/guide/plugins.html#Using-a-Plugin):
 ```js
 import Vue from 'vue'
-import DomHints from 'vue-dom-hints'
+import DomHints from 'vue-dom-hintss'
 
 // Only enable it during development
 if (process.env.NODE_ENV !== 'production') {
