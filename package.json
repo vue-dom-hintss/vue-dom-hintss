@@ -1,6 +1,6 @@
 {
   "name": "vue-dom-hintss",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.1-semantic-release",
   "private": false,
   "description": "Vue devtool for DOM hints",
   "keywords": [
